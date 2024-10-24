@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/HTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "numero_secreto-main"
+	}
+}
